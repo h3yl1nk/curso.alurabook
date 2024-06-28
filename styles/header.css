@@ -13,7 +13,7 @@ background-position: center;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    position: relative;
 }
 
 .container {
@@ -24,11 +24,11 @@ background-position: center;
 
 .lista-menu {
 display: none;
-
+position: absolute;
 
 }
 
-.container_botão:checked~.lista-menu {
+.container_botão:checked ~ .lista-menu {
 display: block;
 
 
