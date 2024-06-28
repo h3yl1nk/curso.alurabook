@@ -23,8 +23,13 @@ background-position: center;
 }
 
 .lista-menu {
-display: none
+display: none;
 
+
+}
+
+.container_botão:chacked ~ .lista-menu {
+display: block;
 
 
 }
