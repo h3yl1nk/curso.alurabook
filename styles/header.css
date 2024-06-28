@@ -39,6 +39,11 @@ display: block;
 padding: 1em;
 background-color: var(--branco);
 
+}
+
+
+.lista-menu{
+color:var(--laranja);
 
 
 }
