@@ -25,7 +25,7 @@ background-position: center;
 .lista-menu {
 display: none;
 position: absolute;
-
+top: 100%
 }
 
 .container_botão:checked ~ .lista-menu {
