@@ -28,7 +28,7 @@ display: none;
 
 }
 
-.container_botão:chacked ~ .lista-menu {
+.container_botão:checked~.lista-menu {
 display: block;
 
 
