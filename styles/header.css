@@ -9,7 +9,6 @@ background-position: center;
 }
 
 .cabeçalho {
-    border: 5px 5px 5px 5px dashed gray;
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
