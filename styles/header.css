@@ -48,7 +48,7 @@ color:var(--laranja);
 
 }
 
-.container_botão: checked~.lista-menu{
+.container_botão:checked~.lista-menu{
     display: block;
 
 }
