@@ -22,3 +22,8 @@
 .container__imagem {
     padding: 1em;
 }
+
+.container_botão:checked~.lista-menu{
+    display: block;
+
+}
