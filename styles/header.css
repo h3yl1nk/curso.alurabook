@@ -48,3 +48,8 @@ color:var(--laranja);
 
 
 }
+
+.container_botão: checked~.lista-menu{
+    display: block;
+
+}
