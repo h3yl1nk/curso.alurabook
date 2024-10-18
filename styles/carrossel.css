@@ -21,3 +21,34 @@ display: none;
 
 
 }
+
+
+.card_descrição {
+display: flex;
+justify-content: space-between;
+
+
+
+}
+
+
+.card_botões{
+display: flex;
+justify-content: space-between;
+
+
+
+}
+
+.botões{
+display: flex;
+
+
+}
+
+.card{
+background: var(--branco);
+box-shadow: 0px 4px 4px rgba(10, 10, 10, 0.25);
+border-radius: 10px;
+
+}
