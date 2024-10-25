@@ -79,3 +79,10 @@ font-size: 14px;
 margin: 0 0.5em ;
 
 }
+
+.botões_ancora{
+background-color: var(--laranja);
+padding: 1em 2.2em;
+
+
+}
