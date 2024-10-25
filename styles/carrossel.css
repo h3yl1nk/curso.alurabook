@@ -50,7 +50,7 @@ display: flex;
 background: var(--branco);
 box-shadow: 0px 4px 4px rgba(10, 10, 10, 0.25);
 border-radius: 10px;
-margin: 1em 1em 1em 1em;
+margin: 1em;
 padding: 1em;
 
 }
