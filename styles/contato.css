@@ -5,7 +5,7 @@ padding: 1em;
 }
 
 .contato-titulo,
-.contato-titulo{
+.contato-texto{
 background: var(--azul-degrade);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
