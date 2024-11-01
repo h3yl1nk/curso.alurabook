@@ -1,7 +1,7 @@
 .tópicos{
 background: var(--azul-degrade);
 text-align: center;
-
+padding: 1em 0;
 }
 
 
@@ -34,6 +34,7 @@ justify-content: center;
 color: var(--branco);
 padding: 1em;
 background-color: var(--laranja);
+font-size: 14px;
+font-weight: 700;
 text-decoration: none;
-
 }
