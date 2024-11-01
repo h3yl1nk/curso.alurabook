@@ -12,3 +12,13 @@ background: var(--azul-degrade);
 background-clip:text;
 
 }
+
+.contato-titulo{
+font-size: 18px;
+font-weight: 500;
+
+}
+
+.contato-texto{
+font-weight: 300;
+}
