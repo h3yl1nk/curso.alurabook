@@ -12,6 +12,14 @@ font-weight: 300;
 
 }
 
+.tópicos-item{
+margin: 2em 0.5em;
+
+
+
+
+}
+
 
 .tópicos-lista{
 display:flex;
