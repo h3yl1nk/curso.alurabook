@@ -35,6 +35,6 @@ color: var(--azul);
 .contato-email::placeholder{
 font-family: var(--fonte-principal);
 color: var(--azul);
-background: url(".../AluraBooks/Email.svg") no-repeat;
+background-img; src="AluraBooks/Email.svg";
 padding-left: 2em;
 }
